@@ -1,0 +1,23 @@
+{
+  "name": "instant-message-server",
+  "version": "1.0.0",
+  "description": "Using koa and socket-io to achieve instant messaging and message pushing on web side. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnshere/instant-message-server.git"
+  },
+  "keywords": [
+    "instant",
+    "message;socket-io"
+  ],
+  "author": "johnshere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnshere/instant-message-server/issues"
+  },
+  "homepage": "https://github.com/johnshere/instant-message-server#readme"
+}
